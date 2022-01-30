@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489823435260",
+    "project_id": "student-info-e280d",
+    "storage_bucket": "student-info-e280d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489823435260:android:348e89ac66026f5c939a79",
+        "android_client_info": {
+          "package_name": "com.example.student_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489823435260-rupi8q2qgmkpu5qulq3p3eqbjtkiqhc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student_info",
+            "certificate_hash": "9c6429d69539364f46219fdecfd32fa34d7d3ccc"
+          }
+        },
+        {
+          "client_id": "489823435260-gnobc27d9h99l04be2us1qukomq9rv4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHS3AXCOg7DhTN_Uv-TiNUBsA_ZYcXF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489823435260-gnobc27d9h99l04be2us1qukomq9rv4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
